@@ -1,0 +1,7 @@
+site_name: Václav Chalupníček
+
+nav:
+  - WA 3. hodina: 'wa_3.md'
+  - Maturita ČJ: 'maturita.md'
+
+theme: readthedocs
