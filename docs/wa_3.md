@@ -2,21 +2,21 @@
 
 naucili jsme se html znacky `<b>` a `<p>` a ted je muzem pouzivat.
 
-```mermaid
-pie title Which animals do you prefer as pets?
-    "Dogs" : 386
-    "Cats" : 85
-    "Rabbits" : 53
-    "Hamsters" : 101
-```
+![Tabule z hodiny](img/tabule.jpg)
 
 ```mermaid
 graph LR
-    hello --> world
-    world --> again
+    hello --> worlld
+    worlld --> again
     again --> hello
 ```
 
+```mermaid
+pie title Pets adopted by volunteers
+    "Dogs" : 386
+    "Cats" : 85
+    "Rats" : 15
+```
 
 ```python
 a = random()
